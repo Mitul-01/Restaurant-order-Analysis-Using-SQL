@@ -1,0 +1,1 @@
+Thank you for visiting the Restaurant Order Analysis project! This repository focuses on using SQL to analyse restaurant order data in order to provide important insights into customer preferences and business performance.
